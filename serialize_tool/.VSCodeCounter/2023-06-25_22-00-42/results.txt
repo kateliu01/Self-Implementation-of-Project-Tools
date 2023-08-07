@@ -1,0 +1,40 @@
+Date : 2023-06-25 22:00:42
+Directory : /home/liuaoqi/LookingForJob/serialize
+Total : 9 files,  568 codes, 0 comments, 142 blanks, all 710 lines
+
+Languages
++-------------+------------+------------+------------+------------+------------+
+| language    | files      | code       | comment    | blank      | total      |
++-------------+------------+------------+------------+------------+------------+
+| CMake Cache |          1 |        315 |          0 |         70 |        385 |
+| CMake       |          8 |        253 |          0 |         72 |        325 |
++-------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                   | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                      |          9 |        568 |          0 |        142 |        710 |
+| build                                                                                  |          9 |        568 |          0 |        142 |        710 |
+| build (Files)                                                                          |          2 |        361 |          0 |         79 |        440 |
+| build/CMakeFiles                                                                       |          7 |        207 |          0 |         63 |        270 |
+| build/CMakeFiles (Files)                                                               |          2 |         54 |          0 |         11 |         65 |
+| build/CMakeFiles/3.26.4                                                                |          3 |        129 |          0 |         44 |        173 |
+| build/CMakeFiles/main.dir                                                              |          2 |         24 |          0 |          8 |         32 |
++----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+
+| filename                                                                               | language    | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeCache.txt                             | CMake Cache |        315 |          0 |         70 |        385 |
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/3.26.4/CMakeCCompiler.cmake     | CMake       |         55 |          0 |         18 |         73 |
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake   | CMake       |         64 |          0 |         20 |         84 |
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/3.26.4/CMakeSystem.cmake        | CMake       |         10 |          0 |          6 |         16 |
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/CMakeDirectoryInformation.cmake | CMake       |         12 |          0 |          5 |         17 |
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/Makefile.cmake                  | CMake       |         42 |          0 |          6 |         48 |
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/main.dir/DependInfo.cmake       | CMake       |         14 |          0 |          6 |         20 |
+| /home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/main.dir/cmake_clean.cmake      | CMake       |         10 |          0 |          2 |         12 |
+| /home/liuaoqi/LookingForJob/serialize/build/cmake_install.cmake                        | CMake       |         46 |          0 |          9 |         55 |
+| Total                                                                                  |             |        568 |          0 |        142 |        710 |
++----------------------------------------------------------------------------------------+-------------+------------+------------+------------+------------+

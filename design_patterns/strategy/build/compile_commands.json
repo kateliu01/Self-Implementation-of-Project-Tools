@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/liuaoqi/design_patterns/strategy/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/Calculator.o -c /home/liuaoqi/design_patterns/strategy/src/Calculator.cpp",
+  "file": "/home/liuaoqi/design_patterns/strategy/src/Calculator.cpp",
+  "output": "CMakeFiles/main.dir/Calculator.o"
+},
+{
+  "directory": "/home/liuaoqi/design_patterns/strategy/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.o -c /home/liuaoqi/design_patterns/strategy/src/main.cpp",
+  "file": "/home/liuaoqi/design_patterns/strategy/src/main.cpp",
+  "output": "CMakeFiles/main.dir/main.o"
+}
+]

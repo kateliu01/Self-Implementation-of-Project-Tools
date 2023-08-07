@@ -1,0 +1,3 @@
+/home/liuaoqi/design_patterns/template_method/CMakeFiles/main.dir
+/home/liuaoqi/design_patterns/template_method/CMakeFiles/edit_cache.dir
+/home/liuaoqi/design_patterns/template_method/CMakeFiles/rebuild_cache.dir

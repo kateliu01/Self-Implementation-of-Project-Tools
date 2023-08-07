@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/liuaoqi/LookingForJob/serialize/build",
+  "command": "/usr/bin/g++  -I/home/liuaoqi/LookingForJob/serialize/include -g -o CMakeFiles/main.dir/src/main.cpp.o -c /home/liuaoqi/LookingForJob/serialize/src/main.cpp",
+  "file": "/home/liuaoqi/LookingForJob/serialize/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]

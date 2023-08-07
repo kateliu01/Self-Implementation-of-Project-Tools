@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/liuaoqi/design_patterns/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.o -c /home/liuaoqi/design_patterns/decorator/main.cpp",
+  "file": "/home/liuaoqi/design_patterns/decorator/main.cpp",
+  "output": "CMakeFiles/main.dir/main.o"
+}
+]

@@ -1,0 +1,3 @@
+/home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/main.dir
+/home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/edit_cache.dir
+/home/liuaoqi/LookingForJob/serialize/build/CMakeFiles/rebuild_cache.dir

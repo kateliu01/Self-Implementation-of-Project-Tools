@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/Cat.o CMakeFiles/main.dir/Dog.o CMakeFiles/main.dir/Kid.o CMakeFiles/main.dir/Mistress.o CMakeFiles/main.dir/Mouse.o CMakeFiles/main.dir/main.o -o main 
